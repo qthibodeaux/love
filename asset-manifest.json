@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/love/static/css/main.dddf6a99.css",
+    "main.js": "/love/static/js/main.850e3679.js",
+    "static/media/w1.jpg": "/love/static/media/w1.d7bfa564fd40307aa47b.jpg",
+    "static/media/photo.gif": "/love/static/media/photo.3a632d0837dd85453350.gif",
+    "static/media/familyv2.jpg": "/love/static/media/familyv2.325fb3cedd5b1b5a9c7d.jpg",
+    "static/media/familyv1.jpg": "/love/static/media/familyv1.7e5509c9625877a166d8.jpg",
+    "static/media/boysyoung.jpg": "/love/static/media/boysyoung.49cc8b300b9d69c25d6f.jpg",
+    "static/media/fromscratch.gif": "/love/static/media/fromscratch.8d24c5040fd8ae51d7c8.gif",
+    "static/media/abbott.gif": "/love/static/media/abbott.dfd24706b3b55f97acfa.gif",
+    "static/media/relax.jpg": "/love/static/media/relax.ca87340f9c0cd9874292.jpg",
+    "static/media/w3.jpg": "/love/static/media/w3.5b5c92e9fb04e752e6ce.jpg",
+    "static/media/boysnow.jpg": "/love/static/media/boysnow.60ce856bfe9c052ba266.jpg",
+    "static/media/w2.jpg": "/love/static/media/w2.ea678b9de24c5bd9eb9e.jpg",
+    "static/media/relax2.jpg": "/love/static/media/relax2.0b01c08ab47825eca873.jpg",
+    "static/media/grey.gif": "/love/static/media/grey.8d23399020ae189d27fa.gif",
+    "static/media/luxx.jpg": "/love/static/media/luxx.08302fa11167a377dfe9.jpg",
+    "static/media/utd.jpg": "/love/static/media/utd.368c8231518180d7cb35.jpg",
+    "static/media/glam.jpg": "/love/static/media/glam.791c0a92042755f9460d.jpg",
+    "static/media/blueshirt.jpg": "/love/static/media/blueshirt.f270d882e2704059974b.jpg",
+    "static/media/icecream.jpg": "/love/static/media/icecream.774f2f095487548c38aa.jpg",
+    "index.html": "/love/index.html",
+    "main.dddf6a99.css.map": "/love/static/css/main.dddf6a99.css.map",
+    "main.850e3679.js.map": "/love/static/js/main.850e3679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dddf6a99.css",
+    "static/js/main.850e3679.js"
+  ]
+}
